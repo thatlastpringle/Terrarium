@@ -1,0 +1,6 @@
+name: "Terrarium Early Access"
+displayName: "[green]Terrarium Mod Early Access"
+author: "thatlastpringle"
+description: "Terrarium"
+version: "0.1"
+minGameVersion: "103"
